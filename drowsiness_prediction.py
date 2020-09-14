@@ -2,7 +2,7 @@
 """
 Created on Sat May  2 05:44:41 2020
 
-@author: karth
+@author: deekshith
 """
 
 import cv2
