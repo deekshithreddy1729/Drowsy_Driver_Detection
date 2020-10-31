@@ -6,8 +6,6 @@
 *  Python 2.7
 *  OpenCV
 *  Keras
-*  Tensorflow
-*  Scipy
 
 ## Algorithm
 
